@@ -29,10 +29,15 @@ Built using Spring Boot, Spring Security, and JWT authentication.
 
 com.example.demo
 ├── auth # Login & Registration
+
 ├── config # Security, JWT, CORS config
+
 ├── job # Job APIs
+
 ├── resume # Resume APIs
+
 ├── match # Resume–Job matching logic
+
 ├── user # User entity & role
 
 ## 🧪 Testing
